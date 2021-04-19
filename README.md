@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @spericolato
-- 👀 I’m interested in blockchain & smart contracts 
-- 🌱 I’m currently learning blockchain & solidity 
+- 👀 I’m interested in web-development and cyber security
+- 🌱 I’m currently learning React library 
 - 💞️ I’m looking to collaborate on web-development 
 - 📫 How to reach me salhiabdennour@yandex.com
 
