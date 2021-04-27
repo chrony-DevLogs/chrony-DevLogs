@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @spericolato
+- 👋 Hi, I’m @spericolato[mimo-certificates-50.pdf](https://github.com/spericolato/spericolato/files/6386850/mimo-certificates-50.pdf)
+
 - 👀 I’m interested in web-development and cyber security
 - 🌱 I’m currently learning React library 
 - 💞️ I’m looking to collaborate on web-development 
