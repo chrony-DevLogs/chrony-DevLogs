@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CHRONY
 
-- 👀 I'm intressted in CS 
+- 👀 I'm a CS student
 - 🌱 I’m currently working on some semulations using c++ and raylib 
 - 📫 How to reach me salhiabdennour@yandex.com
 <!---
