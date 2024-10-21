@@ -2,7 +2,7 @@
 
 - 👀 I'm a CS student
 - 🌱 I’m currently working on some semulations using c++ and raylib 
-- 📫 How to reach me abdennoursalhi@yandex.com
+- 📫 How to reach me salhiabdennour3@gmail.com
   
 <!---
 CHRONY/CHRONY is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
