@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CHRONY
 
-- 👀 I'm a CS student
-- 🌱 I’m currently working on some semulations using c++ and raylib 
+- 👀 I'm a MIME student at ISAMM
+- I'm thrilled to do business with you! 
 - 📫 How to reach me salhiabdennour3@gmail.com
   
 <!---
