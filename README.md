@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CHRONY
 
-- 👀 I'm a MIME student at ISAMM
+- 👀 I'm a CS student at ISAMM
 - I'm thrilled to do business with you! 
 - 📫 How to reach me salhiabdennour3@gmail.com
   
